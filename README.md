@@ -1,3 +1,10 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="sn_Jf3yRLge8fDPDRN1tw3tRdfGo0WFc50GbYTfrTwc" />
+</head>
+
 Hi 👋, I'm Yasin Zeighami
 -----------------------------
 Android Developer with a passion for building innovative mobile apps.
